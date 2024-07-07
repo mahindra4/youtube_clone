@@ -20,7 +20,7 @@ the clone currently doesn't suppornt any backend functionalities it will be adde
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/mahindra4/youtube_clone.git
 2. **Navigate to the project directory:**
    ```bash
    cd youtube-clone
