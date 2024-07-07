@@ -25,3 +25,6 @@ the clone currently doesn't suppornt any backend functionalities it will be adde
    ```bash
    cd youtube-clone
 3. Open the index.html file in your web browser to view the website.
+
+## Demo Video
+[demo video](https://drive.google.com/file/d/1uNh_EGzFVuxCxrsugYs_IaEngZRmYL1P/view?usp=sharing)
